@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">bundletest</string>
+  <string name="action_settings">Settings</string>
+  <string name="title_dynamic_feature">thisisthedynamic</string>
+</resources>
